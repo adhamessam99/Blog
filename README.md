@@ -41,7 +41,7 @@ This Blog Application is a RESTful API built with Ruby on Rails, designed to pro
 
   Use Docker Compose to build and start all services: **docker-compose up --build**
   
-  # This will start the Rails application, PostgreSQL database, Redis for Sidekiq, and the Sidekiq worker.**
+  **This will start the Rails application, PostgreSQL database, Redis for Sidekiq, and the Sidekiq worker**
   
 
 
